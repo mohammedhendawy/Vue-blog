@@ -45,6 +45,7 @@ export default {
     display: block;
     color: #1d1c1c8c;
     margin: 15px 5%;
+    font-size: 14px;
   }
   }
   .contents {
