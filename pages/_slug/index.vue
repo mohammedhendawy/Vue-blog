@@ -6,7 +6,9 @@
       <div>
         <img :src="post.feature_image" />
       </div>
-
+      
+      <span>Written by: Mark Joy</span>
+      
       <div class="contents">
         <p>{{ post.excerpt}}</p>
         <p>{{ post.excerpt}}</p>
@@ -39,6 +41,11 @@ export default {
       width: 100%;
       border-radius: 0.5rem;
     }
+    span{
+    display: block;
+    color: #1d1c1c8c;
+    margin: 15px 5%;
+  }
   }
   .contents {
     width: 90%;
