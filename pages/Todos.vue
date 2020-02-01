@@ -33,6 +33,8 @@ export default {
     display: flex;
     color: #6b6363;
     width: 100%;
+    border-radius: 7px;
+    text-transform: capitalize;
     label {
       flex: 1;
     }
