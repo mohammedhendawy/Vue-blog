@@ -34,7 +34,7 @@ export default {
    
   div {
     width: 90%;
-    margin: 0 auto 20px;
+    margin: 0 auto;
     img {
       width: 100%;
       border-radius: 0.5rem;
