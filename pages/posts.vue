@@ -29,7 +29,7 @@ let todos = [
   },
   {
     id: "3",
-    name: "Thanks for Checking my a",
+    name: "Thanks for Checking my app",
     done: false
   }
 ];
