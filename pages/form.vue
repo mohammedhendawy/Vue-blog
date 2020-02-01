@@ -1,6 +1,6 @@
 <template>
   <main>
-    <!--Add Comment form -->
+    <!--Add Comment to form -->
     <input type="text" name="todoInput" v-model="todoValue" placeholder="Type Your Comment" />
     <button class="submit" v-on:click="createTodo">+</button>
   </main>
